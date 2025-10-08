@@ -108,7 +108,7 @@
             UNIVERSITAS<br>PAMULANG
         </div>
         
-        <h1 class="title">🔰 AGOYIKAZ UNPAM</h1>
+        <h1 class="title">🔰 AGOYIKAZ UNPAM - CLOUD COMPUTING</h1>
         <div class="subtitle">🚀 Presentasi Cloud Computing</div>
         
         <!-- INFORMASI PRIBADI -->
@@ -148,4 +148,4 @@
         </div>
     </div>
 </body>
-</html># demo-cloud
+</html>
